@@ -1,0 +1,15 @@
+E:\Учебники и книги\IT\GeekBrains\программирование\example 007\bin\Debug\net6.0\example 007.exe
+E:\Учебники и книги\IT\GeekBrains\программирование\example 007\bin\Debug\net6.0\example 007.deps.json
+E:\Учебники и книги\IT\GeekBrains\программирование\example 007\bin\Debug\net6.0\example 007.runtimeconfig.json
+E:\Учебники и книги\IT\GeekBrains\программирование\example 007\bin\Debug\net6.0\example 007.dll
+E:\Учебники и книги\IT\GeekBrains\программирование\example 007\bin\Debug\net6.0\example 007.pdb
+E:\Учебники и книги\IT\GeekBrains\программирование\example 007\obj\Debug\net6.0\example 007.csproj.AssemblyReference.cache
+E:\Учебники и книги\IT\GeekBrains\программирование\example 007\obj\Debug\net6.0\example 007.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учебники и книги\IT\GeekBrains\программирование\example 007\obj\Debug\net6.0\example 007.AssemblyInfoInputs.cache
+E:\Учебники и книги\IT\GeekBrains\программирование\example 007\obj\Debug\net6.0\example 007.AssemblyInfo.cs
+E:\Учебники и книги\IT\GeekBrains\программирование\example 007\obj\Debug\net6.0\example 007.csproj.CoreCompileInputs.cache
+E:\Учебники и книги\IT\GeekBrains\программирование\example 007\obj\Debug\net6.0\example 007.dll
+E:\Учебники и книги\IT\GeekBrains\программирование\example 007\obj\Debug\net6.0\refint\example 007.dll
+E:\Учебники и книги\IT\GeekBrains\программирование\example 007\obj\Debug\net6.0\example 007.pdb
+E:\Учебники и книги\IT\GeekBrains\программирование\example 007\obj\Debug\net6.0\example 007.genruntimeconfig.cache
+E:\Учебники и книги\IT\GeekBrains\программирование\example 007\obj\Debug\net6.0\ref\example 007.dll
