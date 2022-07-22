@@ -1,5 +1,7 @@
 ﻿// example 004
-double numberA = 12;
-double numberB = 5;
-Console.WriteLine(numberA / numberB);
+double numberA = new Random().Next(1,10);
+Console.Write("A= " + numberA + " ");
+double numberB = new Random().Next(1,10);
+Console.Write("B= " + numberB + " ");
+Console.WriteLine("dividing = " + numberA / numberB);
 
