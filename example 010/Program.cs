@@ -1,6 +1,5 @@
 ﻿// заполнение и вывод массивов с помощью функций
 int[] collection = new int[10];
-int f;
 
 void Fillarray (int[] collection)
 {
@@ -31,12 +30,15 @@ int IndexOf (int[] collection, int find)
     int pos = -1;
     while (index < lenght)
     {
-        System.Console.WriteLine($"we are looking for {find}");
+        
         if (collection [index] == find)
-            
-            System.Console.WriteLine($"index of element = {index} ");
+            {
+            System.Console.WriteLine($"we are looking for {find}");
             pos = index;
+            System.Console.WriteLine($"index of element = {pos} ");
             
+            break;
+            }
             
         index++;
     } 
@@ -46,8 +48,8 @@ Fillarray (collection);
 Printarray (collection);
 
 System.Console.WriteLine("input number");
-string num = Console.ReadLine();
-int number = int.Parse(num);
+int number = int.Parse( Console.ReadLine());
+
 IndexOf (collection, number);
 
 
